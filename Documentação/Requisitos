@@ -1,0 +1,17 @@
+Trabalho BD
+
+Requisitos:
+
+Pretende-se criar uma base de dados de apoio a uma loja de discos vinil, a "Jonas' Discos". Deverá existir um catálogo organizado dos discos, sendo estes caracterizados pelos seguintes parâmetros: nome, duração, artista(s), género, número de faixas, tipo de disco (LP, EP, ou SP), RPM's (33 ou 45), preço de venda a público (PVP) e stock.
+
+
+Um Disco pode ter mais do que um artista associado, sendo o seu género único. 
+
+
+
+
+A loja irá ser frequentada por clientes, cuja informação relevante será guardada na sua respetiva ficha. Esta deverá conter: o nome, morada, email, lista de discos comprados, estatuto de cliente (normal,golden e platina) e número de telefone.
+
+Como a loja irá ter um stock limitado, será imprescindível manter as referências dos diversos fornecedores. Estas deverão conter o seu nome, telefone e email.
+
+Cada compra possui um preço de compra couna 
